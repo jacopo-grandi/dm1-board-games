@@ -1,0 +1,6 @@
+.venv/
+.DS_Store
+__MACOSX/
+dm1_25_26_dataset.zip
+.ipynb_checkpoints/
+dm1_project_guidelines_25_26.pdf
